@@ -1,0 +1,8 @@
+.venv/
+.env
+logs/
+Ecom_Chat.egg-info/
+
+__pycache__/
+*.py[cod]
+*$py.class
